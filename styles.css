@@ -21,7 +21,7 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 body {
-  background-image:url(imelkuu.png.jpg);
+  background-image:url(imelku.png.jpg);
   height: 100vh;
   overflow: hidden;
 }
@@ -33,16 +33,16 @@ body {
   margin: -225px 0 0 -225px;
 }
 #ui .love:last-child .love_word {
-  color: #fff;
+  color: #f6f4f4;
   font-size: 2rem;
-  text-shadow: 0 0 10px #ea80b0;
+  text-shadow: 0 0 10px #fc0707;
 }
 #ui .love_word {
-  color: #ea80b0;
+  color: #fa0404;
   font-size: 1.4rem;
   transform: translateY(-100%) rotateZ(-30deg);
   font-family: "Dosis", sans-serif;
-  text-shadow: 0 0 10px #fff;
+  text-shadow: 0 0 10px #f8f7f7;
   letter-spacing: 2px;
 }
 #ui .love_horizontal {
